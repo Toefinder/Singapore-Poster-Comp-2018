@@ -7,7 +7,7 @@ Mentor:
 Dr Chen Weiqiang (cweiqiang) from Eunoia Junior College
 
 Collaborators: all Eunoia Junior College JC 2 students
-Liu Muchen (mightgodblessme)
-Tiong Jackson
-Hnin Azali 
+Liu Muchen (mightgodblessme),
+Tiong Jackson,
+Hnin Azali, 
 Le Quang Anh (Toefinder)
