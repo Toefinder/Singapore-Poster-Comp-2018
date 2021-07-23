@@ -6,11 +6,11 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from pandas import DataFrame
 import json
 
-consumer_key = "9jTbyRdlbtNB8eesufK1HdkDJ"
-consumer_secret = "zmZ4kjarUKfUgbVDK7yvqqQiLmUlcwBpwKNw1Y6IIrsV03V19G"
+consumer_key = "****"
+consumer_secret = "****"
 
-access_token = "2890340629-baoNY1qOP3FoN3ls81781bGa016Bb0U1TvChIEa"
-access_token_secret = "Z1jBsr68OeDE5TdpsUAHvvemWAyMsG7FgWdR6Z2kzAthP"
+access_token = "****"
+access_token_secret = "****"
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
